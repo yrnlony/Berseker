@@ -1,0 +1,6 @@
+# No third-party packages are required.
+# This project only uses the Python standard library:
+#   subprocess, xml.etree.ElementTree, csv, json, logging, argparse, pathlib
+#
+# You do still need the Android platform-tools `adb` executable installed
+# and available on your PATH (or set ADB_PATH in config.py to its full path).

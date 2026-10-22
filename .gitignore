@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+automation.log
+screen.xml
+results/
+fixtures.csv
+stats.json
+results.csv
+.env
+secrets.json
